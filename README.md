@@ -1,0 +1,2 @@
+# Relational-Databases-Modeling
+A relational database model is a type of data model that determines the logical structure of a database. It fundamentally determines in which manner data can be stored, organized and manipulated. ACID refers to four essential properties: Atomicity, Consistency, Isolation, and Durability. These features are the key difference between relational databases and a non-relational databases.
